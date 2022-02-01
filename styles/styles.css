@@ -1,0 +1,21 @@
+.cella
+{
+    border: solid 2px blue;  
+    border-radius: 50%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 7%;
+    padding-bottom: 7%;
+    margin: 4px;
+}
+
+.bingobongo
+{
+    width: 100%;
+    height: 100%;
+}
+.sala
+{
+    background-image: url(../images/);
+    background-repeat: no-repeat;
+}
